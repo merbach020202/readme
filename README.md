@@ -1,5 +1,3 @@
-# readme
-Profissional
 #Eduardo Merbach
 ##Este é o meu perfil
 
